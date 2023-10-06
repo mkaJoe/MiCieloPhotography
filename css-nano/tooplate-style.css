@@ -201,7 +201,7 @@ address { font-style: normal; }
 .tm-mb-40 { margin-bottom: 40px; }
 .tm-mb-50 { margin-bottom: 50px; }
 .tm-mb-80 { margin-bottom: 80px; }
-.tm-bgcolor-1 { background-color: #8f3c59; }
-.tm-bgcolor-2 { background-color: #227b7b; }
-.tm-bgcolor-3 { background-color: #547070; }
+.tm-bgcolor-1 { background-color: rgb(143,60,89,0.6); }
+.tm-bgcolor-2 { background-color: rgb(34, 123, 123,0.6); }
+.tm-bgcolor-3 { background-color: rgb(84, 112, 112,0.6); }
 .tm-border-rounded { border-radius: 15px; }
